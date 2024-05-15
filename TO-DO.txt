@@ -1,0 +1,2 @@
+-GPU training with only 100 samples = 76%
+-Trying 10000 samples now

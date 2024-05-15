@@ -2,3 +2,4 @@
 /train2014*
 /vilt_finetuned*
 vqa_v2.pkl
+*.keras
