@@ -1,2 +1,6 @@
 -GPU training with only 100 samples = 76%
 -Trying 10000 samples now
+-Added Dense Layer
+-Sampling based upon which ones have maximum "non-maybes"
+-Using generators to enhance training time + saving GPU compute
+-Freeze T layers and try again?
