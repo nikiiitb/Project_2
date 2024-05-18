@@ -1,3 +1,7 @@
+# VQA Implementation
+
+This repository contains my submission for AI-825 project: Implementing a model to handle Visual Question Answering
+
 ### Generate Datasets
 Contained in generate_dataset.ipynb
 
