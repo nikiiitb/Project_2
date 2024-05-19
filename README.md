@@ -14,4 +14,9 @@ Contained in vqa_model_2_clipped.ipynb
 ### PyTorch + LoRA implementation
 Contained in vqa_model_pytorch_2.ipynb + vqa_model_pytorch_lora_2.ipynb
 
+### Dataset used
 All 10k, 20k, ... 1000k sampled datasets uploaded as .pkl in the dataset.
+
+### Model Weights + Testing
+Model weights are contained in Release 1: https://github.com/nikiiitb/Project_2/releases/tag/v1.0.0
+Please use vqa_model_2_yes_no_test.ipynb or vqa_model_2_clipped_test.ipynb for testing the model and printing Accuracy, F1 Score, Precision and Recall
